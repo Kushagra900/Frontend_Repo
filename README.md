@@ -1,3 +1,3 @@
-# Backend_Repo
+# Frontend_Repo
 
-All the backend related files of the Merged-repo
+All the frontend related files of the Merged-repo
